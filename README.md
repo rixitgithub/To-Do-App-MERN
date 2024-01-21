@@ -1,1 +1,1 @@
-![Alt text](/ScreenShots/1?raw=true "Optional Title")
+![Alt text](/ScreenShots/1.png?raw=true "Optional Title")

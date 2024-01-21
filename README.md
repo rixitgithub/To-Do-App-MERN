@@ -14,4 +14,4 @@ A modern to-do application built on the MERN (MongoDB, Express.js, React, Node.j
 2. DELETING AN ELEMENT
  ![Alt text](/ScreenShots/6.png?raw=true "Optional Title")
  ![Alt text](/ScreenShots/7.png?raw=true "Optional Title")
- ![Alt text](/ScreenShots/3.png?raw=true "Optional Title")
+ ![Alt text](/ScreenShots/4.png?raw=true "Optional Title")
